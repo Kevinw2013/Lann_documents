@@ -8,7 +8,7 @@ Just follow these simple steps.
 
 If your the creator of a project you are the project owner and administrator, otherwise ask the administrator to promote you.
 
-![](https://github.com/Kevinw2013/Lann_documents/blob/master/docs/_gif/Create-task.gif "-gifcontrol-disabled;")
+![](https://raw.githubusercontent.com/Kevinw2013/Lann_documents/blob/master/docs/_gif/Create-task.gif "-gifcontrol-disabled;")
 
 Click the ![logo](../_icon/Add-project.png ':size=120x40') button on the upright corner of the project list page;
 
