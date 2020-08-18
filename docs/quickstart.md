@@ -8,7 +8,7 @@ Just follow these simple steps.
 
 If your the creator of a project you are the project owner and administrator, otherwise ask the administrator to promote you.
 
-![](Lann_documents/docs/_gif/Create-project.gif "-gifcontrol-disabled;")
+![](res://Packages/Lann_documents/docs/_gif/Create-project.gif){: width=769, height=270}
 
 Click the ![logo](../_icon/Add-project.png ':size=120x40') button on the upright corner of the project list page;
 
