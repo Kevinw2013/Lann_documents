@@ -2,9 +2,9 @@
 
 ## Core Management Concepts
 
-* Datasets
-* Schemas
-* Task Definitions
+* Data sources
+* Annotation Guideline
+* Task Assignment
 * Teams
 * Relations
 
@@ -18,34 +18,36 @@ Whenever you or your annotators log in, you’ll be assigned a Task - a unit of 
 
 ## How it Should Be Done
 
-You’ll want to configure your annotation project to be completed in a particular way, for example. - We want three people to annotate each example to ensure quality. - We want one person to label each example to maximize throughput. - We want to show multiple examples together so that annotators can see the broader context. - We want to provide suggestions to our annotators from our existing models and dictionaries. - We want to specify guidelines that annotators can access.
+You’ll want to configure your annotation project to be completed in a particular way, for example. - We want three people to annotate each example to ensure quality. - We want one person to label each example to maximize throughput. - We want to provide suggestions to our annotators from our existing models and dictionaries. - We want to specify guidelines that annotators can access.
 
-These options and many more, are configured in the Task Definition, Dataset and Schema objects described below. Again, if you’re looking for a specific way to do something, take a look at the recipes section as well.
+These options and many more, are configured in the Data source, Guideline and Task Definition modules described below. 
 
 
 ## How Can LANN Help Me ?
 
 1. LANN’s Annotation Interface makes entity annotation and relation annotation easy and fast.
-3. LANN’s review mode and analytics give you insights on the quantity and quality of your labeled data and models
-4. LANN’s support for external models let’s you speed up your annotators and review your production models.
+3. LANN’s review mode and analytics give you insights on the quantity and quality of your labeled data
+4. LANN’s support for uploading existing annotations done with other softwares for effortless switching of annotation tools
+5. LANN’s suggestions of annotations speed up annotators through online model training and dictionary based automatic annotations.
+
 
 ## A Typical Use Case
 
 >What Needs To Be Completed
 
-Bob has a dataset of 1000 tweets. He’d like to annotate the entities in them as either Person or Location. Bob’s friend, Alice, is going to label with him. Bob wants to get through the data as fast as possible, so he wants each tweet to be labeled by either Alice or Bob, but not both.
+Mann has a dataset of 500 articles. She’d like to annotate the entities in them as either person or Location. Mann’s friend, Tom and Jerry, are going to label with her. Mann wants to annotate the data with a high quality, so she wants to start with letting both of her friends annotate the same small dataset with 100 articles and measure their agreement. 
 
 >Setting It Up in LANN
 
-To Implement this in LANN, Bob
+To Implement this in LANN, Mann
 
-1. uploads his tweets as a new Dataset
-2. defines a Schema with the Tags Person and Location.
-3. creates a new Task Definition, that says ” Label my tweets Dataset with my Schema. I want each tweet to be labeled exactly once”
+1. uploads her articles as a new Dataset
+2. defines an Annotation Schema with the Labels of Person and Location.
+3. creates a new Task Definition, that says ” Label 100 of my articles with the defined Annotation Schema. I want each artile to be labeled by two annotators”
 
 >LANN Data
 
-After creating the Task Definition, whenever Alice or Bob log-in to LANN, LANN will serve them data to label. Once they complete annotating an example and submit it, LANN will give them the next example to annotate, until the task is complete.
+After creating the Task Definition, whenever Tom or Jerry log-in to LANN, LANN will serve them data to label. Once they complete annotating an article and submit it, LANN will give them the next article to annotate, until the task is complete. During this process, the inter-annotator agreement between Tom and Jerry can be calculated as long as they have annotated at least one same article.
 
 ## Team setup
 
@@ -61,5 +63,3 @@ There are three different roles in a team: project creator, administrator and an
  ![team-setup](_images/team-setup/annotation2.png ) 
 
  ![team-setup](_images/team-setup/quality-control2.png )
-
- ![team-setup](_images/team-setup/model-train-deployment2.png ) 
