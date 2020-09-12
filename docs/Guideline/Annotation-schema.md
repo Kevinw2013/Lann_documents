@@ -20,7 +20,7 @@ There are two ways to reuse existing annotation schema already defined elsewhere
 
 ![](../_gif/Reuse-schema1.gif "-gifcontrol-disabled;")
 
-* Copy annotation schemas from an existing project: Click the ![logo](../_icon/Copy_schema.png ':size=110x40') button on the top right of the annotation schema page, then you can select a project previously built and replacate its annotation schema.
+* Copy annotation schemas from an existing project: Click the ![logo](../_icon/Copy_schema.png ':size=110x40') button on the top right of the annotation schema page, then you can select a project previously built and replicate its annotation schema.
 
 ![](../_gif/Reuse-shcema2.gif "-gifcontrol-disabled;")
 
