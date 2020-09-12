@@ -4,11 +4,11 @@
 
 Before starting annotation, you need to define the semantic types that you will use for this purpose. Semantic types in LANN refer to entities (e.g, ‘protein’, 'lab test') and the relations between them (e.g, 'aspirin' treats 'headache').
 
-Click ![logo](../_icon/add-entity.png ':size=80x40') and ![logo](../_icon/add-relation.png ':size=90x40') to create new entities and relations. 
+Under the Guideline - Overview, click ![logo](../_icon/Edit_entity_relation.png ':size=120x40') to enter the page of schema editing, then click ![logo](../_icon/add-entity.png ':size=80x40') or ![logo](../_icon/add-relation.png ':size=90x40') to create new entities or relations. 
 
 ![](../_gif/create-schema.gif "-gifcontrol-disabled;")
 
-Hierarchical categories of entites could also be created by adding child enties. Click the ![logo](../_icon/add.png ':size=50x40') icon on the right of each entity to add child. For example, 'cancer' is a child under 'disease', 'England' is a child under 'country'.
+Hierarchical categories of entites could also be created by adding child entities. Click the ![logo](../_icon/add.png ':size=50x40') icon on the right of each entity to add child. For example, 'cancer' is a child under 'disease', 'England' is a child under 'country'.
 
 ![](../_gif/add-entity-child.gif "-gifcontrol-disabled;")
 
@@ -20,7 +20,7 @@ There are two ways to reuse existing annotation schema already defined elsewhere
 
 ![](../_gif/Reuse-schema1.gif "-gifcontrol-disabled;")
 
-* Copy annotation schemas from an existing project: Click the ![logo](../_icon/duplicate.png ':size=110x40') button on the top right of the annotation schema page, then you can select a project previously built and replacate its annotation schema.
+* Copy annotation schemas from an existing project: Click the ![logo](../_icon/Copy_schema.png ':size=110x40') button on the top right of the annotation schema page, then you can select a project previously built and replacate its annotation schema.
 
 ![](../_gif/Reuse-shcema2.gif "-gifcontrol-disabled;")
 
