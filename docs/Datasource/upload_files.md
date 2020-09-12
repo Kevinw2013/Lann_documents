@@ -26,6 +26,8 @@ LANN currently provides accomodation to several common annotation tools, includi
 
 Click the ![logo](../_icon/question.png ':size=50x35') button of each tool, to see the required format of the tool with sample data.
 
+Select the ![logo](../_icon/yes_annotated.png ':size=200x35'), to automatically create the annotation schema based on labels in the annotated files.
+
 After drag and drop files to the file box, or select them from the directory, click the ![logo](../_icon/confirm.png ':size=80x40') button.
 
 ![](../_gif/Upload-annotated-files.gif "-gifcontrol-disabled;")
