@@ -1,6 +1,6 @@
 # Quick start
 
-We're Going to set up a basic annotation project in LANN. The only prerequisite is that you should already have the data you want to label:)
+We're going to set up a basic annotation project in LANN. The only prerequisite is that you should already have the data you want to label:)
 
 Just follow these simple steps.
 
@@ -47,7 +47,7 @@ Now that we have a dataset, and defined schema and guidelines, click "Annotation
 
 Click "+ Task" to select files and the annotator(s) to work on the first task.
 
-# 7.  Label Data
+# 6.  Label Data
 
 Click the task name to view the file list
 
