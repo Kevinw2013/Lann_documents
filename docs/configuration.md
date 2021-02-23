@@ -5,12 +5,15 @@
 * Data sources
 * Annotation Guideline
 * Task Assignment
+* Progress check
+* Quality control
+* Email notification
 * Teams
-* Relations
 
-Every annotation project is different and needs to be managed accordingly. This section introduces the core concepts that make up an annotation project in LANN and how you can configure them. This section gives a detailed explanation of each concept.
 
-The difficult part of labeling data is keeping track of who did what and what each person should do next. LANN makes that easy by automating it for you. The core concepts shown below are the tools you’ll use to tell LANN what you want to do and how you want it completed.
+Every annotation project is different and needs to be managed accordingly. This section introduces the core concepts that make up an annotation project in LANN and where you can configure them. 
+
+The difficult parts of labeling data together as a team are (1) keeping track of who did what and what each person should do next, (2) keeping every team member on the same page regarding what information should be annotated, (3) keeping a high quality of the annotations in an efficient way. LANN makes that easy by automating it for you. The core concepts shown below are the modules you’ll use to tell LANN what you want to do and how you want it completed.
 
 ## What Needs To Be Done
 
