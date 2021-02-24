@@ -1,4 +1,4 @@
-#Team setup and Project Management
+#Team Setup and Project Management
 
 ## Team setup
 
