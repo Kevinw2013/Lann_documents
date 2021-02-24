@@ -21,9 +21,13 @@ Whenever you or your annotators log in, you’ll be assigned a Task - a unit of 
 
 ## How it Should Be Done
 
-You’ll want to configure your annotation project to be completed in a particular way, for example. - We want three people to annotate each example to ensure quality. - We want one person to label each example to maximize throughput. - We want to provide suggestions to our annotators from our existing models and dictionaries. - We want to specify guidelines that annotators can access.
+You’ll want to configure your annotation project to be completed in a particular way, for example: - We want three people to annotate each example to ensure quality. - We want one person to label each example to maximize throughput. - We want to provide suggestions to our annotators from our existing models and dictionaries. - We want to specify guidelines that annotators can access. - We want to review works from annotators to correct errors and reject any file that is poorly annotated.
 
-These options and many more, are configured in the Data source, Guideline and Task Definition modules described below. 
+These options and many more, are configured in the modules of Data source, Guideline, annotation, and quality control, which will be described in each section. 
+
+Moreover, you may also want to have more advanced functions specific to progress management, for example: 
+- We want to keep track of the number of annotated files finished by each annotator and how much time spent.  
+- We want to let the team members know instantly when tasks are assigned or automatic quality test is finished.
 
 
 ## How Can LANN Help Me ?
