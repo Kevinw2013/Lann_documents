@@ -34,7 +34,7 @@ Moreover, you may also want to have more advanced functions specific to progress
 - We want to keep track of the number of annotated files finished by each annotator and how much time spent.  
 - We want to let the team members know instantly when tasks are assigned or automatic quality test is finished.
 
-An overview dashboard is generated for the project to summarize the on-going tasks and progress of each annotator. In addition, emails will be sent to annotators when new activities related to them happen in LANN.
+An overview dashboard is provided for each project to summarize the on-going tasks and progress of each annotator. In addition, emails will be sent to annotators when new activities related to them happen in LANN.
 
 
 ## How Can LANN Help Me ?
