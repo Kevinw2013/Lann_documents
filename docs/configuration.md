@@ -1,5 +1,3 @@
-#Team Setup and Project Management
-
 ## Team setup
 
 >How to invite members to join your group
