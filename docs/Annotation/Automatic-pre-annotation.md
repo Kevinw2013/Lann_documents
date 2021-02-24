@@ -15,7 +15,7 @@ With LANN you can upload existing annotations, the output of your models and dic
 
 2. To review the outputs of NLP models and refine their outputs.
 
-![](../_gif/pre-annotation.gif "-gifcontrol-disabled;")
+![](../_gif/suggestion.gif "-gifcontrol-disabled;")
 
 
 
