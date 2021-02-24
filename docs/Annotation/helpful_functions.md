@@ -17,8 +17,6 @@ Several helpful functions are provided to assisting you during annotation. Click
 > Post questions about annotations
 ![](../_gif/qa.gif "-gifcontrol-disabled;")
 
-![](../_gif/question.gif "-gifcontrol-disabled;")
-
 > Make the right floating window static and 
 
 ![](../_gif/float-static.gif "-gifcontrol-disabled;")
