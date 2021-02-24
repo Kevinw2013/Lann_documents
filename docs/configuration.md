@@ -4,7 +4,9 @@
 
 >How to invite members to join your group
 
-Once registered independently, you will be the super-administor of your group and has the right to build your group by inviting members to join.  Click the User button at the top, you will see a list of current users in your group. Click +User at the top right, an invitation link will then be generated. Forward the invitation link to your collaborator Macy, she can open it and register, then she will be automatically added to your group and listed in your user list.
+Once registered independently, you will be the super-administor of your group and has the right to build your group by inviting members to join:
+
+Click the User button at the top, you will see a list of current users in your group. Click +User at the top right, an invitation link will then be generated. Forward the invitation link to your collaborator Macy, she can open it and register, then she will be automatically added to your group and listed in your user list.
  
 
 >Different roles in a project
