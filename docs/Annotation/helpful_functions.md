@@ -15,6 +15,7 @@ Several helpful functions are provided to assisting you during annotation. Click
 ![](../_gif/edit-guideline-during.gif "-gifcontrol-disabled;")
 
 > Post questions about annotations
+![](../_gif/qa.gif "-gifcontrol-disabled;")
 
 ![](../_gif/question.gif "-gifcontrol-disabled;")
 
