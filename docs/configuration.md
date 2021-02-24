@@ -1,4 +1,24 @@
-# Configuration and Project Management
+#Team setup and Project Management
+
+## Team setup
+
+>How to invite members to join your group
+Once registered independently, you will be the super-administor of your group and has the right to build your group by inviting members to join.  Click the User button at the top, you will see a list of current users in your group. Click +User at the top right, an invitation link will then be generated. Forward the invitation link to your collaborator Macy, she can open it and register, then she will be automatically added to your group and listed in your user list.
+ 
+
+>Different roles in a project
+There are three different roles in a team: project creator, administrator and annotator. However, project creator is usually the administrator by default unless otherwise designated. Detailed previliges of each role is listed in the following tables:
+
+
+ ![team-setup](_images/team-setup/project2.png ) 
+
+ ![team-setup](_images/team-setup/guide2.png ) 
+
+ ![team-setup](_images/team-setup/guide-after-publish2.png ) 
+
+ ![team-setup](_images/team-setup/annotation2.png ) 
+
+ ![team-setup](_images/team-setup/quality-control2.png )
 
 ## Core Management Concepts
 
@@ -33,8 +53,9 @@ These options and many more, are configured in the modules of Guideline, annotat
 Moreover, you may also want to have more advanced functions specific to progress management, for example: 
 - We want to keep track of the number of annotated files finished by each annotator and how much time spent.  
 - We want to let the team members know instantly when tasks are assigned or automatic quality test is finished.
+- We want to go back straightly to the latest file we worked on when we logged in last time.
 
-An overview dashboard is provided for each project to summarize the on-going tasks and progress of each annotator. In addition, emails will be sent to annotators when new activities related to them happen in LANN.
+For fulfill these functions that can make our projects go more smoothly, an overview dashboard is provided for each project to summarize the on-going tasks and progress of each annotator. In addition, emails will be sent to annotators when new activities related to them happen in LANN. The stopping point of annotators' latest work is also be recorded for a convinent navigation to resume the work.
 
 
 ## How Can LANN Help Me ?
@@ -63,17 +84,4 @@ To Implement this in LANN, Mann
 
 After creating the Task Definition, whenever Tom or Jerry log-in to LANN, LANN will serve them data to label. Once they complete annotating an article and submit it, LANN will give them the next article to annotate, until the task is complete. During this process, the inter-annotator agreement between Tom and Jerry can be calculated as long as they have annotated at least one same article.
 
-## Team setup
 
-There are three different roles in a team: project creator, administrator and annotator. However, project creator is usually the administrator by default unless otherwise designated. Detailed previliges of each role is listed in the following tables:
-
-
- ![team-setup](_images/team-setup/project2.png ) 
-
- ![team-setup](_images/team-setup/guide2.png ) 
-
- ![team-setup](_images/team-setup/guide-after-publish2.png ) 
-
- ![team-setup](_images/team-setup/annotation2.png ) 
-
- ![team-setup](_images/team-setup/quality-control2.png )
