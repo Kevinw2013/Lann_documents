@@ -4,12 +4,9 @@ As annotating a corpus from scratch may be a time-consuming and costly process, 
 
 <!-- [screen shot](../_gif/pre-annotation.gif ) -->
 
-A file with pre-annotated named entities
-
-
 # Suggestions, Pre-annotations and Model Analytics
 
-![](../_gif/pre-annotation.gif "-gifcontrol-disabled")
+![](../_gif/pre-annotation.gif "-gifcontrol-disabled;")
 <!-- [video](../_videos/pre-annotation.mp4 ':include :type=video') -->
 
 With LANN you can upload existing annotations, the output of your models and dictionaries. You can use these in two ways either
