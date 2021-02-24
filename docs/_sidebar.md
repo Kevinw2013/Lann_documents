@@ -1,5 +1,5 @@
 - [Quick start](quickstart.md)
-- [Project creation and team setting](configuration.md)
+- [Team setting and Project management](configuration.md)
 - [Data preperation](Datasource/README.md)
   - [upload files](Datasource/upload_files.md)
   - [read text from database](Datasource/connect_db.md)
