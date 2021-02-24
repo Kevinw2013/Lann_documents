@@ -32,7 +32,7 @@ Detailed previliges of each role is listed in the following tables:
 
  ![team-setup](_images/team-setup/quality-control2.png )
 
-## Core Management Concepts
+## Core Concepts of Project Management
 
 * Data sources
 * Annotation Guideline
@@ -40,7 +40,6 @@ Detailed previliges of each role is listed in the following tables:
 * Progress check
 * Quality control
 * Email notification
-* Teams
 
 
 Every annotation project is different and needs to be managed accordingly. This section introduces the core concepts that make up an annotation project in LANN and where you can configure them. 
