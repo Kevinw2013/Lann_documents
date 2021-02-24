@@ -4,15 +4,22 @@
 
 >How to invite members to join your group
 
-Once registered independently, you will be the super-administor of your group and has the right to build your group by inviting members to join:
+Once registered independently, you will be the super-administrator of your group and has the right to build your group by inviting members to join:
 
 Click the User button at the top, you will see a list of current users in your group. Click +User at the top right, an invitation link will then be generated. Forward the invitation link to your collaborator Macy, she can open it and register, then she will be automatically added to your group and listed in your user list.
  
 
 >Different roles in a project
 
+Once inviting collaborators to your group, you can create annotation projects and start working.
 
-There are three different roles in a team: project creator, administrator and annotator. However, project creator is usually the administrator by default unless otherwise designated. Detailed previliges of each role is listed in the following tables:
+Every group member can create new annotation projects. The project creator will also be of the administrator role of the project by default. Login and click the project name in the project list to enter one specific project, then you can add new members under the Team module. 
+
+Click Team in the left menu, and click +User at the top right, you will find the registered names of all the current users in your group invited by the super-administrator, click their names to add them to your project.
+
+There are three different roles in a project: project creator, administrator and annotator. As mentioned above, project creator is usually the administrator by default. Super-administrators will also be the administrator of the specific project is added as a member. Other members newly added to a project can be either an administrator or an annotator, depending on expected duties in your team. 
+
+Detailed previliges of each role is listed in the following tables:
 
 
  ![team-setup](_images/team-setup/project2.png ) 
