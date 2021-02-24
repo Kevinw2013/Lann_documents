@@ -6,19 +6,17 @@ Several helpful functions are provided to assisting you during annotation. Click
 
 - Make the right floating window static and adjust its size
 
-- Read and Edit the annotation guilde
+- Read and edit the annotation guilde
 
-- Post questions about annotations
-
-- Change Visualization of entity & relation
+- Change visualization of entity & relation
 
 
 ![](../_gif/Float-static.gif "-gifcontrol-disabled;")
 
+- Post questions about annotations
+
+
 ![](../_gif/qa.gif "-gifcontrol-disabled;")
 
-![](../_gif/edit-guideline-during.gif "-gifcontrol-disabled;")
-
-![](../_gif/change-visilization.gif "-gifcontrol-disabled;")
 
 
