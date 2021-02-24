@@ -13,6 +13,7 @@ Several helpful functions are provided to assisting you during annotation. Click
 
 ![](../_gif/Float-static.gif "-gifcontrol-disabled;")
 
+
 - Post questions about annotations
 
 
