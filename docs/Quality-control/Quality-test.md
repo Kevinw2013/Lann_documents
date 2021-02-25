@@ -16,6 +16,7 @@ One string is annotated at some positions and not annotated in other positions.
 
 
 > Annotation overlap
+
 Two annotations are overlapped, and one annotation is not a substring of another.
 
 <!-- [demo video](https://youtu.be/xxxxx':include :type=iframe width=100% height=400px') -->
