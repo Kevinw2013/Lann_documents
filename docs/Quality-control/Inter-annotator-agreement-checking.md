@@ -26,7 +26,7 @@ A single annotator matrix of multi annotators can not provide enough details of 
 
 ![logo]( ../_images/gold.png )
 
-![logo]( ../_images/matrix-two-annotator.png )
+> How to check agreement between two annotators in details
 
 First, click the ![logo](../_icon/Add-agreement-check.png ':size=150x40'  ) button to create a new task.
 
@@ -36,7 +36,7 @@ After the selection, the IAA scores will be automatically calculated and display
 
 Click the confusion matrix in the task panel, a table will pop up illustrating the confusion between each pair of semantic types. The confusion matrixes of entities and relations will be displayed seperately.
 
-![logo]( ../_images/gold.png )
+![logo]( ../_images/matrix-two-annotator.png )
 
 For example, both Hao and Angela annotated 14 entities as [ **organism** ]. Hao also annotates another 3 as [ **organism** ], while Angela annotates them as [ **Gene** ].
 
