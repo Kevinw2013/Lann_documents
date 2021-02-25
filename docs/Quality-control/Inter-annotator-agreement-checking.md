@@ -12,9 +12,11 @@ It contains the IAA scores between pairs of annotators.
 
 * IAA matrix of multiple annotators 
 
-In each round of training, the IAA matrix of multiple (at least two) annotators  will be displayed by clicking the ![logo](../_icon/inter-annotator.png ':size=40x40') icon on the right corner of ![logo](../_icon/Annotation.png ':size=135x40') > Round n. Only finalized annotation files will be used for IAA calculation.
+In each round of training, the IAA matrix of multiple (at least two) annotators  will be displayed by clicking the ![logo](../_gif/agreement_icon.gif ':size=40x40') icon on the right corner of each annotation task. Only finalized annotation files will be used for IAA calculation.
 
 ![logo]( ../_images/inter-annotator-agreement.png )
+![logo]( ../_gif/agreement_matrix.gif )
+
 
 For example, Vega and Joao agree on the 87% of the cases. Vega and Gerard on the 47%. This visualization provides an overview of the agreement among annotators. It also helps find weak spots. In this example we can see how Gerard is not aligned with the rest of annotators (25%, 47%, 35%, 18%). A training might be required to have him aligned with the guidelines and the rest of the team. On the top left we find the annotation task name, id and the agreement average (59,30%).
 
