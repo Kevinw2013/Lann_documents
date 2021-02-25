@@ -14,7 +14,6 @@ It contains the IAA scores between pairs of annotators.
 
 In each round of training, the IAA matrix of multiple (at least two) annotators  will be displayed by clicking the ![logo](../_gif/agreement_icon.gif ':size=40x40') icon on the right corner of each annotation task. Only finalized annotation files will be used for IAA calculation.
 
-![logo]( ../_images/inter-annotator-agreement.png )
 ![logo]( ../_gif/agreement_matrix.gif )
 
 
