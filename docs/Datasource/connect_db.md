@@ -8,7 +8,7 @@ In this interface, you can configure the URL/Path, JDBC Driver name, and login i
 
 ![logo](../_icon/db.png)
 
-Click the ![logo](../_icon/test.png ':size=75x40') button to check if the database can be connected.
+Click the button of test connection to check if the database can be connected.
 
 ![](../_gif/agreement-check.gif "-gifcontrol-disabled;")
 
