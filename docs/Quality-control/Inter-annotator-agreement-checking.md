@@ -38,7 +38,7 @@ Click the confusion matrix in the task panel, a table will pop up illustrating t
 
 ![logo]( ../_images/matrix-two-annotator.png )
 
-For example, both Hao and Angela annotated 14 entities as [ **organism** ]. Hao also annotates another 3 as [ **organism** ], while Angela annotates them as [ **Gene** ].
+For example, both Hao and Xuhong annotated 256 entities as [ **Disease** ]. Hao also annotates another 4 as [ **Disease** ], while Xuhong annotates another 13 as [ **Disease** ].
 
 > Resolving annotation discrepencies
 
