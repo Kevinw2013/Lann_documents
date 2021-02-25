@@ -15,20 +15,11 @@ Every group member can create new annotation projects. The project creator will 
 
 Click Team in the left menu, and click +User at the top right, you will find the registered names of all the current users in your group invited by the super-administrator, click their names to add them to your project.
 
-There are three different roles in a project: project creator, administrator and annotator. As mentioned above, project creator is usually the administrator by default. Super-administrators will also be the administrator of the specific project is added as a member. Other members newly added to a project can be either an administrator or an annotator, depending on expected duties in your team. 
+There are two major roles in a project:administrator and annotator. As mentioned above, project creator is usually the administrator by default. Super-administrators of the entire group will also be the administrator of one specific project is added inside as a member. Other members newly added to a project can be either an administrator or an annotator, depending on expected duties in the project. 
 
-Detailed previliges of each role is listed in the following tables:
+Administrator and annotators can access different function modules in LANN:
 
-
- ![team-setup](_images/team-setup/project2.png ) 
-
- ![team-setup](_images/team-setup/guide2.png ) 
-
- ![team-setup](_images/team-setup/guide-after-publish2.png ) 
-
- ![team-setup](_images/team-setup/annotation2.png ) 
-
- ![team-setup](_images/team-setup/quality-control2.png )
+ ![team-setup](_images/merged_menu.png ) 
 
 ## Core Concepts of Project Management
 
