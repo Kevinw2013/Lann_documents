@@ -6,7 +6,7 @@ Then select the ![logo](../_icon/connect-db.png ':size=190x30') option
 
 In this interface, you can configure the URL/Path, JDBC Driver name, and login information for database connection. Please also specify the table name and the column that the data is stored in.
 
-(../_icon/db.png)
+![logo](../_icon/db.png)
 
 Click the ![logo](../_icon/test.png ':size=75x40') button to check if the database can be connected.
 
