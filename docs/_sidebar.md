@@ -8,7 +8,6 @@
   - [create annotation schema](Guideline/Annotation-schema.md)
   - [edit guideline](Guideline/Guideline-editing.md)
   - [answer questions from annotators](Guideline/Annotion-question-answer.md)
-  - [new annotator training](Guideline/Annotator-training.md)
 - [Text annotation](Annotation/README.md)
   - [how to annotate text](Annotation/Annotation-functions.md)
   - [pre-annotation and suggestions](Annotation/Automatic-pre-annotation.md)
