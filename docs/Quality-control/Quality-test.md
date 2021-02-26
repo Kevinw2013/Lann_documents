@@ -26,5 +26,6 @@ Two annotations are overlapped, and one annotation is not a substring of another
 
 A machine learning based model is trained on current gold-standard annotations, which will be used to predict named entities and relations from the same gold-standard annotations. High-quality annotations will yield performance highly close to 1. Discrepancy between annotations and predictions needs to be examined.
 
-![](../_gif/self-test.gif "-gifcontrol-disabled;")
+![logo]( ../_images/ambiguous.png )
+![logo]( ../_images/potential_error.png )
 
